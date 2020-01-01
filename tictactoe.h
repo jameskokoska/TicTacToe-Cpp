@@ -1,11 +1,3 @@
-//
-//  tictacto.h
-//  TicTacTo
-//
-//  Created by Tarek Abdelrahman on 2019-06-06.
-//  Copyright © 2019 Tarek Abdelrahman. All rights reserved.
-//
-//  ECE244 Student: Do NOT modify this file
 
 #ifndef tictacto_h
 #define tictacto_h
