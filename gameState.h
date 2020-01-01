@@ -1,11 +1,3 @@
-//
-//  gameState.h
-//  TicTacTo
-//
-//  Created by Tarek Abdelrahman on 2019-06-07.
-//  Copyright © 2019 Tarek Abdelrahman. All rights reserved.
-//
-//  ECE244 Student: Do NOT copy or modify this file
 
 #ifndef gameState_h
 #define gameState_h
